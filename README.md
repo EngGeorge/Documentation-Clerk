@@ -1,8 +1,8 @@
 # Documentation-Clerk
 Freelance Projects
 
-Document ClerkDocument Clerk
-FreelanceFreelance
+Document Clerk
+Freelance
 Mar 2019 - Present (3 Years 3 Months)
 
 • Mentoring B.A. Students in their Graduation Projects and Research Writing by providing insight on proper academic research skills to follow while developing technical programs.
